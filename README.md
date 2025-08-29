@@ -10,9 +10,7 @@ If other image libs were at a party, they'd still be figuring out Maven while Ko
 ![downloads](https://img.shields.io/badge/downloads-1k%2Fmonth-brightgreen)
 
 
-<img src="http://cdnb.artstation.com/p/assets/images/images/072/879/003/original/alena-sherban-2.gif" 
-     alt="banner" 
-     style="width:500px; height:300px; object-fit:cover;">
+![banner](http://cdnb.artstation.com/p/assets/images/images/072/879/003/original/alena-sherban-2.gif)
      
 ---
 
