@@ -4,6 +4,11 @@
 
 If other image libs were at a party, they'd still be figuring out Maven while Kontext4J already made your avatar a cyberpunk queen and found a mysterious nano banana in your pocket. 🍌💀
 
+![Maven Central](https://img.shields.io/maven-central/v/io.github.init-io/Kontext4J.svg?label=Maven%20Central)
+![GitHub Release](https://img.shields.io/github/v/release/init-io/Kontext4J?label=release)
+[![License](https://img.shields.io/github/license/init-io/Kontext4J)](LICENSE)
+![downloads](https://img.shields.io/badge/downloads-1k%2Fmonth-brightgreen)
+
 ---
 
 # TL;DR
