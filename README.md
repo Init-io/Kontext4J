@@ -9,6 +9,9 @@ If other image libs were at a party, they'd still be figuring out Maven while Ko
 [![License](https://img.shields.io/github/license/init-io/Kontext4J)](LICENSE)
 ![downloads](https://img.shields.io/badge/downloads-1k%2Fmonth-brightgreen)
 
+
+![banner](http://cdnb.artstation.com/p/assets/images/images/072/879/003/original/alena-sherban-2.gif?1708423755)
+
 ---
 
 # TL;DR
