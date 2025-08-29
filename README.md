@@ -72,7 +72,7 @@ Kontext4J k = new Kontext4J().init("YOUR_API_KEY_HERE");
 
 ---
 
-![Generate Examples](https://cdn.sanity.io/images/gsvmb6gz/production/821bc59e839e362bc02a10a6662dc52e4da71da5-1024x1024.jpg)
+<img src = https://cdn.sanity.io/images/gsvmb6gz/production/821bc59e839e362bc02a10a6662dc52e4da71da5-1024x1024.jpg/>
 ### Generate (text → image)
 
 ```java
