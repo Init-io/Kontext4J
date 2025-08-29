@@ -72,10 +72,15 @@ Kontext4J k = new Kontext4J().init("YOUR_API_KEY_HERE");
 
 ---
 
-<img src = https://cdn.sanity.io/images/gsvmb6gz/production/3bce31811d0a95960f2a30ca8c548af9463b78c8-1024x1024.jpg alt="Image Generation Outputs" width="200" />
-<img src = https://cdn.sanity.io/images/gsvmb6gz/production/fe5135de7fa5a666ddb38f234dd55fe285435719-1024x1024.jpg alt="Image Generation Outputs" width="200" />
-<img src = https://cdn.sanity.io/images/gsvmb6gz/production/930a9437a1b85af8721e9107daefa76e40b82365-1024x1024.jpg alt="Image Generation Outputs" width="200" />
-<img src = https://cdn.sanity.io/images/gsvmb6gz/production/821bc59e839e362bc02a10a6662dc52e4da71da5-1024x1024.jpg alt="Image Generation Outputs" width="200" />
+<table>
+  <tr>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/3bce31811d0a95960f2a30ca8c548af9463b78c8-1024x1024.jpg" alt="Image1" width="200"/></td>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/fe5135de7fa5a666ddb38f234dd55fe285435719-1024x1024.jpg" alt="Image2" width="200"/></td>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/930a9437a1b85af8721e9107daefa76e40b82365-1024x1024.jpg" alt="Image3" width="200"/></td>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/821bc59e839e362bc02a10a6662dc52e4da71da5-1024x1024.jpg" alt="Image4" width="200"/></td>
+  </tr>
+</table>
+
 ### Generate (text → image)
 
 ```java
