@@ -246,17 +246,19 @@ MIT recommended. Free, petty, and small — like your nano banana.
 
 # Contact / Socials 📱
 
+## 📱 Connect with Me
+
 <table>
 <tr>
-<td><a href="https://twitter.com/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/twitter.png"/> X</a></td>
-<td><a href="https://www.instagram.com/thesiamrayhan/"><img src="https://img.icons8.com/ios-filled/24/000000/instagram-new.png"/> Instagram</a></td>
-<td><a href="https://www.facebook.com/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/facebook-new.png"/> Facebook</a></td>
-<td><a href="https://www.snapchat.com/add/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/snapchat.png"/> Snapchat</a></td>
-<td><a href="https://www.linkedin.com/in/thesiamrayhan/"><img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png"/> LinkedIn</a></td>
-<td><a href="https://www.fiverr.com/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/fiverr.png"/> Fiverr</a></td>
-<td><a href="https://discord.com/users/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/discord-logo.png"/> Discord</a></td>
-<td><a href="https://t.me/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/telegram-app.png"/> Telegram</a></td>
-<td><a href="mailto:thesiamrayhan@gmail.com"><img src="https://img.icons8.com/ios-filled/24/000000/gmail.png"/> Gmail</a></td>
+  <td><a href="https://twitter.com/thesiamrayhan"><img src="https://cdn-icons-png.flaticon.com/24/733/733579.png" width="24" style="vertical-align:middle;"> X</a></td>
+  <td><a href="https://www.instagram.com/thesiamrayhan/"><img src="https://cdn-icons-png.flaticon.com/24/2111/2111463.png" width="24" style="vertical-align:middle;"> Instagram</a></td>
+  <td><a href="https://www.facebook.com/thesiamrayhan"><img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" width="24" style="vertical-align:middle;"> Facebook</a></td>
+  <td><a href="https://www.snapchat.com/add/thesiamrayhan"><img src="https://cdn-icons-png.flaticon.com/24/2111/2111710.png" width="24" style="vertical-align:middle;"> Snapchat</a></td>
+  <td><a href="https://www.linkedin.com/in/thesiamrayhan/"><img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" width="24" style="vertical-align:middle;"> LinkedIn</a></td>
+  <td><a href="https://www.fiverr.com/thesiamrayhan"><img src="https://cdn-icons-png.flaticon.com/24/5968/5968764.png" width="24" style="vertical-align:middle;"> Fiverr</a></td>
+  <td><a href="https://discord.com/users/thesiamrayhan"><img src="https://cdn-icons-png.flaticon.com/24/2111/2111370.png" width="24" style="vertical-align:middle;"> Discord</a></td>
+  <td><a href="https://t.me/thesiamrayhan"><img src="https://cdn-icons-png.flaticon.com/24/2111/2111646.png" width="24" style="vertical-align:middle;"> Telegram</a></td>
+  <td><a href="mailto:thesiamrayhan@gmail.com"><img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" width="24" style="vertical-align:middle;"> Gmail</a></td>
 </tr>
 </table>
 
