@@ -1,4 +1,4 @@
-<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/d8abe0a9-e258-426b-b2e7-b2beaa789f5f" /># Kontext4J ⚡✨
+# Kontext4J ⚡✨
 
 > The Java lib that’s too cool for bloated dependencies. Edits, fills, expands, generates, and low-key judges every other library still downloading 300 MB of JARs.
 
@@ -94,12 +94,7 @@ System.out.println("Image URL: " + k.getUrl());
 // other libs would still be configuring XML, we already sipping coffee. ☕🤖
 ```
 
-<table>
-  <tr>
-    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/3ae6ee032b85373b84934574f3ac3bb2fb792d64-2048x1365.jpg" alt="Before Editing" width="200"/></td>
-    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/b404ea99e309e5b4bab6fcd82a4a13ad18f2c04b-1248x832.jpg" alt="After Editing" width="200"/></td>
-  </tr>
-</table>
+
 ### Simple Generate
 
 ```java
@@ -135,6 +130,13 @@ k.edit(
 System.out.println(k.getUrls());
 // other libs: "please configure 12 XML files." 🤡
 ```
+
+<table>
+  <tr>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/3ae6ee032b85373b84934574f3ac3bb2fb792d64-2048x1365.jpg" alt="Before Editing" width="200"/></td>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/b404ea99e309e5b4bab6fcd82a4a13ad18f2c04b-1248x832.jpg" alt="After Editing" width="200"/></td>
+  </tr>
+</table>
 
 ### Simple Edit
 
