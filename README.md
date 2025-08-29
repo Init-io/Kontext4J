@@ -246,15 +246,19 @@ MIT recommended. Free, petty, and small — like your nano banana.
 
 # Contact / Socials 📱
 
-[![X](https://img.icons8.com/ios-filled/24/000000/twitter.png)](https://twitter.com/thesiamrayhan)  
-[![Instagram](https://img.icons8.com/ios-filled/24/000000/instagram-new.png)](https://www.instagram.com/thesiamrayhan/)  
-[![Facebook](https://img.icons8.com/ios-filled/24/000000/facebook-new.png)](https://www.facebook.com/thesiamrayhan)  
-[![Snapchat](https://img.icons8.com/ios-filled/24/000000/snapchat.png)](https://www.snapchat.com/add/thesiamrayhan)  
-[![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/thesiamrayhan/)  
-[![Fiverr](https://img.icons8.com/ios-filled/24/000000/fiverr.png)](https://www.fiverr.com/thesiamrayhan)  
-[![Discord](https://img.icons8.com/ios-filled/24/000000/discord-logo.png)](https://discord.com/users/thesiamrayhan)  
-[![Telegram](https://img.icons8.com/ios-filled/24/000000/telegram-app.png)](https://t.me/thesiamrayhan)  
-[![Gmail](https://img.icons8.com/ios-filled/24/000000/gmail.png)](mailto:thesiamrayhan@gmail.com)
+<table>
+<tr>
+<td><a href="https://twitter.com/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/twitter.png"/> X</a></td>
+<td><a href="https://www.instagram.com/thesiamrayhan/"><img src="https://img.icons8.com/ios-filled/24/000000/instagram-new.png"/> Instagram</a></td>
+<td><a href="https://www.facebook.com/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/facebook-new.png"/> Facebook</a></td>
+<td><a href="https://www.snapchat.com/add/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/snapchat.png"/> Snapchat</a></td>
+<td><a href="https://www.linkedin.com/in/thesiamrayhan/"><img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png"/> LinkedIn</a></td>
+<td><a href="https://www.fiverr.com/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/fiverr.png"/> Fiverr</a></td>
+<td><a href="https://discord.com/users/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/discord-logo.png"/> Discord</a></td>
+<td><a href="https://t.me/thesiamrayhan"><img src="https://img.icons8.com/ios-filled/24/000000/telegram-app.png"/> Telegram</a></td>
+<td><a href="mailto:thesiamrayhan@gmail.com"><img src="https://img.icons8.com/ios-filled/24/000000/gmail.png"/> Gmail</a></td>
+</tr>
+</table>
 
 *(Memes > bug reports)*
 
