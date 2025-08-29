@@ -246,9 +246,17 @@ MIT recommended. Free, petty, and small — like your nano banana.
 
 # Contact / Socials 📱
 
-* X / Twitter / IG / FB / LinkedIn / Snapchat: `@thesiamrayhan`
-* Gmail: `thesiamrayhan@gmail.com`
-  *(Memes > bug reports)*
+[![X](https://img.icons8.com/ios-filled/24/000000/twitter.png)](https://twitter.com/thesiamrayhan)  
+[![Instagram](https://img.icons8.com/ios-filled/24/000000/instagram-new.png)](https://www.instagram.com/thesiamrayhan/)  
+[![Facebook](https://img.icons8.com/ios-filled/24/000000/facebook-new.png)](https://www.facebook.com/thesiamrayhan)  
+[![Snapchat](https://img.icons8.com/ios-filled/24/000000/snapchat.png)](https://www.snapchat.com/add/thesiamrayhan)  
+[![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/thesiamrayhan/)  
+[![Fiverr](https://img.icons8.com/ios-filled/24/000000/fiverr.png)](https://www.fiverr.com/thesiamrayhan)  
+[![Discord](https://img.icons8.com/ios-filled/24/000000/discord-logo.png)](https://discord.com/users/thesiamrayhan)  
+[![Telegram](https://img.icons8.com/ios-filled/24/000000/telegram-app.png)](https://t.me/thesiamrayhan)  
+[![Gmail](https://img.icons8.com/ios-filled/24/000000/gmail.png)](mailto:thesiamrayhan@gmail.com)
+
+*(Memes > bug reports)*
 
 ---
 
