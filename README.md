@@ -154,6 +154,12 @@ System.out.println(k.getUrls());
 
 ---
 
+<table>
+  <tr>
+    <td><img src="https://cdn.sanity.io/images/gsvmb6gz/production/838d5cc08592229eff705c3ca345286dac4d09da-1600x962.webp" alt="Inpainting example" width="200"/></td>
+  </tr>
+</table>
+
 ### Fill / Inpaint
 
 ```java
